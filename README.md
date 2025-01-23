@@ -1,5 +1,8 @@
-# CODE-FOR-CALCULATOR
-fjfj
-kjg
-hkljb
-bk
+#include<iostream>
+using namespace std:
+ int main ()
+ {
+ cout<<"enter the operation name to perform it..";
+ }
+
+
